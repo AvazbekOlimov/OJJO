@@ -245,3 +245,56 @@ header{
     width: 300px;
     height: 280px;
 }
+.site-sec-main-content{
+    height: 540px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.site-sec-main-content h3{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+}
+.site-sec-main-content h1{
+    font-family: Noto Serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 41px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Noto Serif', serif;
+}
+.site-sec-main-content p{
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140%;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+    width: 730px;
+    height: 100px;
+}
+.site-sec-main-content a{
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #333333;
+    background: #FFFFFF;
+    border: 1px solid #333333;
+    padding: 15px 35px;
+    text-decoration: none;
+}
